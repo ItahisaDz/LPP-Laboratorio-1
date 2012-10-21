@@ -1,0 +1,15 @@
+Autora: 	Itahisa M. Díaz Díaz
+Asignatura:	Lenguajes y Paradigmas de Programación
+Curso:		Tercero de Grado en Ingeniería Informática
+Título:		Práctica de Laboratorio #1
+Subtítulo:	Control de versiones
+
+Desarrollo:
+
+1) Se creó, en máquina local, un directorio para la asignatura Lenguaje y paradigmas de programación: LPP-Laboraorio-1.
+2) En el mismo, se creó un proyecto para el programa "holamundo.rb".
+3) Se creó un repositorio con el control de versiones (git).
+4) Se creó una copia del repositorio en github (github.com) y en bitbucket (bitbucket.org).
+5) Se modificó el programa para permitir que se especifice el nombre el usuario del programa ("holanombre.rb").
+6) Se actualiza el  control de versiones remoto.
+7) Se entregó la URL de su repositorio en github.
